@@ -2,11 +2,13 @@ This repository contains a collection of basic Python programs and commonly used
 
 ## 🔍 Contents
 1. **Basic Python Programs**
-    - Hello World
     - Factorial Calculation
     - Fibonacci Series
     - Prime Number Check
-    - File Handling (Read/Write Operations)
+    - Armstrong Number
+    - Multiplication Table of a number
+    - Reverse the string
+    - Palindrome
     - Basic CRUD Operations with a List
 2. **Important Python Libraries**
     - **NumPy**: Efficient array handling and mathematical operations
